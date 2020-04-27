@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AntiCovid</string>
+
+    <string name="fragment_wash_tittle">Toma en cuenta antes de empezar</string>
+
+    <string name="recomendacion_3">Evita tocar otros objetos de tu alrededor durante el lavado.</string>
+    <string name="recomendacion_2">Ten listo toalla, jabón y papel secante.</string>
+    <string name="recomendacion_1">Quítate los objetos de las manos y muñecas.</string>
+
+    <string name="step_one">Mójate las manos con suficiente agua</string>
+    <string name="step_two">Enjabónate y frota las palmas de las manos y atrás</string>
+    <string name="step_three">Frota tu dedo pulgar rodeandolos</string>
+    <string name="step_four">Frota la yema de los dedos contra la palma</string>
+    <string name="step_five">Enjuágate con abundante agua</string>
+    <string name="step_six">Sécate las manos con papel toalla y cierra el caño con el papel</string>
+
+    <string name="pos_tittle">Gracias por cuidarnos a todos</string>
+    <string name="pos_recomendacion_1">No olvides eliminar el papel toalla.</string>
+    <string name="pos_recomendacion_2">Comparte la aplicación para concientizar.</string>
+    <string name="mensaje1">¡Comenzamos!, Moja tus manos con agua, ¡ahóra!</string>
+    <string name="mensaje2">enjabónate, frota tus palmas y enpeine</string>
+    <string name="mensaje3">rodea tus dedos pulgares</string>
+    <string name="mensaje4">frota la punta de tus dedos en tus palmas</string>
+    <string name="mensaje5">ahora enjuagate con mucha agua</string>
+    <string name="mensaje6">sécate con un papel limpio</string>
+    <string name="mensaje_fin">Gracias por cuidarnos a todos, hemos terminado!</string>
+    <string name="comenzar_de_nuevo">Comenzar de nuevo</string>
+
+
+    <string name="idAdmob">ca-app-pub-5962939335183427~2710765260</string>
+    <string name="idBanner">bannerca-app-pub-5962939335183427/7118867849</string>
+    <string name="idInterestial">ca-app-pub-5962939335183427/2653009221</string>
+</resources>

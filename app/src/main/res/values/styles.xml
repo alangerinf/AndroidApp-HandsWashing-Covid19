@@ -1,0 +1,65 @@
+<resources>
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="tViewSecondary">
+        <item name="android:textColor">@color/colorPrimaryLight</item>
+        <item name="android:textSize">@dimen/text_secondary_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="tViewPrimary">
+        <item name="fontFamily">@font/olivia_family</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/text_primary_size</item>
+    </style>
+
+    <style name="tViewTittle">
+        <item name="fontFamily">@font/olivia_family</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <item name="android:textSize">@dimen/text_tittle_size</item>
+    </style>
+
+    <style name="tViewTittle.center">
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="tViewCount">
+        <item name="fontFamily">@font/alegra_family</item>
+        <item name="android:textSize">@dimen/text_counter</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorAccent2</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="btnOutlined" parent="@style/Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="strokeColor">@color/colorAccent</item>
+        <item name="cornerRadius">@dimen/button_corner_radius</item>        
+        <item name="android:textSize">@dimen/text_secondary_size</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">32dp</item>
+        <item name="android:paddingRight">32dp</item>
+    </style>
+
+</resources>
