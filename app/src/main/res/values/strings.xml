@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AntiCovid</string>
+    <string name="app_name">Pinpon es un muñeco</string>
 
 
     <string name="fragment_wash_tittle">Toma en cuenta antes de empezar</string>
@@ -26,9 +26,4 @@
     <string name="mensaje6">sécate con un papel limpio</string>
     <string name="mensaje_fin">Gracias por cuidarnos a todos, hemos terminado!</string>
     <string name="comenzar_de_nuevo">Comenzar de nuevo</string>
-
-
-    <string name="idAdmob">ca-app-pub-5962939335183427~2710765260</string>
-    <string name="idBanner">bannerca-app-pub-5962939335183427/7118867849</string>
-    <string name="idInterestial">ca-app-pub-5962939335183427/2653009221</string>
 </resources>

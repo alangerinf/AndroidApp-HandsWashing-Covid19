@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="worldwide.alger.handwash.wash_steps.FirstFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.FirstFragment"
         tools:layout="@layout/fragment_first">
         <action
             app:exitAnim="@anim/left_out"
@@ -17,7 +17,7 @@
     </fragment>
     <fragment
         android:id="@+id/SecondFragment"
-        android:name="worldwide.alger.handwash.wash_steps.SecondFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.SecondFragment"
         tools:layout="@layout/fragment_second">
         <action
             app:exitAnim="@anim/left_out"
@@ -27,7 +27,7 @@
     </fragment>
     <fragment
         android:id="@+id/threeFragment"
-        android:name="worldwide.alger.handwash.wash_steps.ThreeFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.ThreeFragment"
         android:label="fragment_three"
         tools:layout="@layout/fragment_three" >
         <action
@@ -38,7 +38,7 @@
     </fragment>
     <fragment
         android:id="@+id/fourFragment"
-        android:name="worldwide.alger.handwash.wash_steps.FourFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.FourFragment"
         android:label="fragment_four"
         tools:layout="@layout/fragment_four" >
         <action
@@ -49,7 +49,7 @@
     </fragment>
     <fragment
         android:id="@+id/preStepsFragment"
-        android:name="worldwide.alger.handwash.wash_steps.PreStepsFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.PreStepsFragment"
         android:label="fragment_pre"
         tools:layout="@layout/fragment_pre" >
         <action
@@ -60,7 +60,7 @@
     </fragment>
     <fragment
         android:id="@+id/fiveFragment"
-        android:name="worldwide.alger.handwash.wash_steps.FiveFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.FiveFragment"
         android:label="fragment_five"
         tools:layout="@layout/fragment_five" >
         <action
@@ -71,7 +71,7 @@
     </fragment>
     <fragment
         android:id="@+id/sixFragment"
-        android:name="worldwide.alger.handwash.wash_steps.SixFragment"
+        android:name="com.alangerdev.handswasher.wash_steps.SixFragment"
         android:label="fragment_six"
         tools:layout="@layout/fragment_six" >
         <action
